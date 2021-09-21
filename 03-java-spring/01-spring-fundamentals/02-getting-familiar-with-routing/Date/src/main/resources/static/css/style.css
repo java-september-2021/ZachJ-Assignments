@@ -1,0 +1,13 @@
+.datewrap{
+	color: blue;
+	text-align: center;
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+.timewrap{
+	color: green;
+	text-align: center;
+	font-weight: 700;
+	text-decoration: underline;
+}
